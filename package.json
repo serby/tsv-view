@@ -1,0 +1,14 @@
+{
+  "name": "tsv-view",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "tsv-view": "./index.js"
+  },
+  "scripts": {
+    "tsv-view": "./index.js"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.3"
+  }
+}
